@@ -1,0 +1,37 @@
+[
+    {
+        "question:": "First question?",
+        "answers": ["a1", "a2", "a3", "a4"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question:": "Second question?",
+        "answers": ["a1", "a2", "a3", "a4"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question:": "Third question?",
+        "answers": ["a1", "a2", "a3", "a4"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question:": "Fourth question?",
+        "answers": ["a1", "a2", "a3", "a4"],
+        "correctAnswerIndex": 3
+    },
+    {
+        "question:": "Fifth question?",
+        "answers": ["a1", "a2", "a3", "a4"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question:": "Sixth question?",
+        "answers": ["a1", "a2", "a3", "a4"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question:": "Seventh question?",
+        "answers": ["a1", "a2", "a3", "a4"],
+        "correctAnswerIndex": 2
+    }
+]

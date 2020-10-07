@@ -1,0 +1,37 @@
+[
+    {
+        "question": "Amb quines colles actuàvem avui, diada de bateig?",
+        "answers": ["Cerdanyola, Bandarres, Escaldats", "Castellers del Prat, Cerdanyola, Escaldats", "Bandarres, Escaldats, Laietans de Gramanet", "Laietans de Gramanet, Castellers del Prat, Cerdanyola"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "Quina va ser la nostra primera aparició amb públic i amb qui?",
+        "answers": ["11/09/2013, Saballuts", "26/04/2013, Escaldats", "09/09/2012, Maduixots", "12/09/2013, Escaldats"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "Fa 6 anys que la colla ens vam batejar. Quin dia exacte era?",
+        "answers": ["26 d’abril de 2013", "26 d’abril de 2014", "27 d’abril de 2013", "27 d’abril de 2014"],
+        "correctAnswerIndex": 3
+    },
+    {
+        "question": "Quin és el primer castell que vam fer amb la camisa bordeus??",
+        "answers": ["3d6a", "4d6", "3d6", "2d6"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "Quantes camises capgirades érem el dia del bateig?",
+        "answers": ["190", "115", "96", "154"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "On es van batejar alguns capgirats després de la diada de bateig?",
+        "answers": ["A les dutxes de l’Espai Tolrà", "Al sortidor de la Plaça Major", "A la font de la Plaça del Mirador", "Al sortidor de la Plaça de l’Ajuntament"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "Quina altra colla “rival” es va batejar el mateix cap de setmana?",
+        "answers": ["Castellers de Santpedor", "Laietans de Gramenet", "Castellers del Prat", "Maduixots"],
+        "correctAnswerIndex": 3
+    }
+]
